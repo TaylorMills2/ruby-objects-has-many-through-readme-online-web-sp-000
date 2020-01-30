@@ -19,4 +19,3 @@ attr_accessor :name, :yrs_experience
  end
  
 end 
-end
